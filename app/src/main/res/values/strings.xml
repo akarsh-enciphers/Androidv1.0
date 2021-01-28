@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Naruto</string>
+    <string name="enciphers">Enciphers</string>
+    <string name="enter_your_username">Enter Your UserName</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="log_in">Log In</string>
+    <string name="remember_me_on_this_device">Remember me on this Device</string>
+    <string name="signup">Signup</string>
+    <string name="Enciphers">Enciphers</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email_address">Enter Your Email address</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="enter_password">Password</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="Signup">Signup</string>
+    <string name="goback">Back</string>
+    <string name="profile">Profile</string>
+    <string name="quiz">Quiz</string>
+    <string name="welcome_to_enciphersapp">Welcome to EnciphersApp</string>
+    <string name="signout">Signout</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="q1_which_of_the_following_most_closely_simulates_the_actions_of_a_real_world_attacker_hacker">Q1. Which of the following most closely simulates the actions of a real world attacker/hacker?</string>
+    <string name="vulnerability_assessment">Vulnerability assessment</string>
+    <string name="security_audit">Security Audit</string>
+    <string name="penetration_testing">Penetration Testing</string>
+    <string name="none_of_the_above">None of the Above</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="q2_which_of_the_following_attacks_store_the_script_permanently_into_the_vulnerable_application">Q2. Which of the following attacks store the script permanently into the vulnerable application?</string>
+    <string name="stored_cross_site_scripting">Stored Cross-site Scripting</string>
+    <string name="sql_injection">SQL Injection</string>
+    <string name="self_cross_site_scripting">Self Cross-site Scripting</string>
+    <string name="cross_site_request_forgery">Cross-site Request Forgery</string>
+    <string name="button">Button</string>
+    <string name="click_to_connect">Click To Connect</string>
+</resources>
